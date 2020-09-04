@@ -101,7 +101,7 @@
     "json-loader": "^0.5.4",
     "mocha": "^3.4.2",
     "mochawesome": "^2.2.0",
-    "node-sass": "^3.8.0",
+    "node-sass": "^4.13.1",
     "react-addons-test-utils": "^15.5.1",
     "react-test-renderer": "^15.5.4",
     "sass-loader": "^4.0.0",
